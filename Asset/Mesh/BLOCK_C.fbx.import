@@ -1,0 +1,53 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://dbf6ybobv8cah"
+path="res://.godot/imported/BLOCK_C.fbx-326f0b7ddd5b7677a4ec91c04b1267a8.scn"
+
+[deps]
+
+source_file="res://Asset/Mesh/BLOCK_C.fbx"
+dest_files=["res://.godot/imported/BLOCK_C.fbx-326f0b7ddd5b7677a4ec91c04b1267a8.scn"]
+
+[params]
+
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=false
+meshes/create_shadow_meshes=false
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+meshes/force_disable_compression=false
+skins/use_named_skins=false
+animation/import=false
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+import_script/path=""
+_subresources={
+"nodes": {
+"PATH:RootNode/E_BLOCK_08_Bridge_Collider": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:RootNode/E_BLOCK_09_A_Collider": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:RootNode/E_BLOCK_10_SLOPE_A_Collider": {
+"generate/physics": true,
+"physics/shape_type": 2
+},
+"PATH:RootNode/E_BLOCK_11_SLOPE_A_Collider": {
+"generate/physics": true,
+"physics/shape_type": 2
+}
+}
+}
+gltf/naming_version=0
+gltf/embedded_image_handling=1
